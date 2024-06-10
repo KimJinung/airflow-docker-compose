@@ -1,5 +1,6 @@
 logs
 dags
+plugins
 .idea
 DS_Store
 __pycache__
